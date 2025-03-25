@@ -1,4 +1,4 @@
-#This is the change i created on this file..
+#This is the new change i created on this file..
 
 # JavaScript Snake Game
 
